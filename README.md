@@ -1,0 +1,1 @@
+This project originated as exploratory data analysis during my Data Analyst Internship at The Sparks Foundation. I subsequently extended the project using Power BI to develop an interactive business and operational reporting workflow.
